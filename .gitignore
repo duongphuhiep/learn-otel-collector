@@ -535,3 +535,5 @@ Sessionx.vim
 tags
 # Persistent undo
 [._]*.un~
+
+victoria-logs-data
